@@ -1,0 +1,1 @@
+[22-Jun-2020] Initial Setup of GIT and Python IDE on my machine
